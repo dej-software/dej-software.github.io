@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cupper</title>
+    <title>Wind-J</title>
     <link>https://dej-software.github.io/</link>
-    <description>Recent content on Cupper</description>
+    <description>Recent content on Wind-J</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 22 Apr 2019 11:26:53 +0800</lastBuildDate>
     
-	<atom:link href="https://dej-software.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dej-software.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +16,22 @@
       <pubDate>Mon, 22 Apr 2019 11:26:53 +0800</pubDate>
       
       <guid>https://dej-software.github.io/about/</guid>
-      <description>Hello!</description>
+      
+        <description>&lt;p&gt;Hello!&lt;/p&gt;
+</description>
+      
     </item>
     
     <item>
       <title>First</title>
-      <link>https://dej-software.github.io/first/</link>
+      <link>https://dej-software.github.io/post/first/</link>
       <pubDate>Mon, 22 Apr 2019 10:20:34 +0800</pubDate>
       
-      <guid>https://dej-software.github.io/first/</guid>
-      <description>第一篇文章</description>
+      <guid>https://dej-software.github.io/post/first/</guid>
+      
+        <description>&lt;p&gt;第一篇文章&lt;/p&gt;
+</description>
+      
     </item>
     
   </channel>
