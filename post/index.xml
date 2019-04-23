@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wind-J</title>
-    <link>https://dej-software.github.io/post/</link>
+    <link>http://dej-software.github.io/post/</link>
     <description>Recent content in Posts on Wind-J</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 22 Apr 2019 10:20:34 +0800</lastBuildDate>
     
-	<atom:link href="https://dej-software.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dej-software.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://dej-software.github.io/post/first/</link>
+      <link>http://dej-software.github.io/post/first/</link>
       <pubDate>Mon, 22 Apr 2019 10:20:34 +0800</pubDate>
       
-      <guid>https://dej-software.github.io/post/first/</guid>
+      <guid>http://dej-software.github.io/post/first/</guid>
       <description>第一篇文章</description>
     </item>
     
