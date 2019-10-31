@@ -1,40 +1,28 @@
-<?xml-stylesheet type="text/xsl" href="http://dej-software.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dej-software.github.io/about/</loc>
-    <lastmod>2019-04-22T11:26:53+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-10-31T18:29:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dej-software.github.io/</loc>
-    <lastmod>2019-04-22T11:26:53+08:00</lastmod>
-    <priority>0</priority>
+    <loc>http://example.org/post/%E5%92%8C%E6%97%B6%E9%97%B4%E8%B5%9B%E8%B7%91/</loc>
+    <lastmod>2019-10-31T18:29:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dej-software.github.io/post/first/</loc>
-    <lastmod>2019-04-22T10:20:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-10-31T18:29:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dej-software.github.io/post/</loc>
-    <lastmod>2019-04-22T10:20:34+08:00</lastmod>
-    <priority>0</priority>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://dej-software.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dej-software.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
